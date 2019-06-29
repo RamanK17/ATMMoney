@@ -1,0 +1,50 @@
+.header{
+  text-align: center;
+  font-size: 40px;
+  color:white;
+  padding: 25px;
+  background-color:  #4952b5;
+}
+.app{
+  display: flex;
+  justify-content: space-around;
+  background-color: lightgrey;
+  margin-top:50px;
+}
+.app-layout{
+  border-style: groove;
+  width: 36%;
+  height: 250px;
+  background-color: white;
+  margin-top:20px;
+}
+.app-header {
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+}
+.app-amount{
+  margin-left:33px;
+}
+.labelAmount{
+  font-size:12px;
+}
+.inputAmount{
+  height:36px;
+  width:86%;
+  border: 2px solid grey;
+  border-radius: 5px;
+}
+.submitAmount{
+  background-color:  blue;
+  color: white;
+  width: 87%;
+  height: 40px;
+  margin-top: 21px;
+}
+.totalNotes{
+  border-bottom: 2px solid grey;
+}
+.notes{
+  border-bottom: 1px solid grey;
+}   
